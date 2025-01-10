@@ -1,0 +1,24 @@
+[11-12-2024 11:13:49.155 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 1: Click on main menu
+[11-12-2024 11:13:49.650 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 2: Click on Stock Plan menu
+[11-12-2024 11:13:49.741 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 3: Click on Stock Plan Child Menu
+[11-12-2024 11:13:49.921 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 4: Select Product Line Dropdown
+[11-12-2024 11:13:52.162 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 5: Select Eguipment Group
+[11-12-2024 11:13:54.743 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 6: Select Machine
+[11-12-2024 11:13:56.952 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 7: Click filter
+[11-12-2024 11:13:57.071 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 8: Get the last Stock PO
+[11-12-2024 11:14:01.723 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 9: Click Modify
+[11-12-2024 11:14:01.796 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 10: Verify lock user
+[11-12-2024 11:14:02.156 INFO com.schedulingAmes.TC_01_stockPlan] - ------PASSED---------
+[11-12-2024 11:14:02.157 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 11: Click New Stock Plan
+[11-12-2024 11:14:03.502 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 12: Select dropdown product line
+[11-12-2024 11:14:05.690 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 13: Select Machine
+[11-12-2024 11:14:09.886 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 14: Select Article
+[11-12-2024 11:14:12.091 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 15: Enter quantity
+[11-12-2024 11:14:13.649 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 16: Select TBM Order Number
+[11-12-2024 11:14:15.827 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 17: Select status
+[11-12-2024 11:14:18.004 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 18: Enter Text comment
+[11-12-2024 11:14:18.130 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step19: Verify Start and End date
+[11-12-2024 11:14:18.179 INFO com.schedulingAmes.TC_01_stockPlan] - ------FAILED---------
+[11-12-2024 11:14:18.179 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 120: Click Save
+[11-12-2024 11:14:18.268 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 21: Verify Stock save success
+[11-12-2024 11:14:18.726 INFO com.schedulingAmes.TC_01_stockPlan] - ------PASSED---------

@@ -1,0 +1,7 @@
+[07-01-2025 19:22:41.143 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 1: Click on main menu
+[07-01-2025 19:22:41.728 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 2: Click on Stock Plan menu
+[07-01-2025 19:22:41.846 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 3: Click on Stock Plan Child Menu
+[07-01-2025 19:22:41.999 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 4: Select Product Line Dropdown
+[07-01-2025 19:22:45.086 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 5: Select Eguipment Group
+[07-01-2025 19:22:48.045 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 6: Select Machine
+[07-01-2025 19:22:50.939 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 7: Click filter

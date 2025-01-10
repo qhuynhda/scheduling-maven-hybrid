@@ -1,0 +1,13 @@
+[24-11-2024 20:27:07.653 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 1: Click on main menu
+[24-11-2024 20:27:08.276 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 2: Click on Stock Plan menu
+[24-11-2024 20:27:08.393 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 3: Click on Stock Plan Child Menu
+[24-11-2024 20:27:08.512 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 4: Select Product Line Dropdown
+[24-11-2024 20:27:10.756 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 5: Select Eguipment Group
+[24-11-2024 20:27:13.575 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 6: Select Machine
+[24-11-2024 20:27:15.787 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 7: Click Modify
+[24-11-2024 20:27:15.871 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 8: Verify lock user
+[24-11-2024 20:27:16.430 INFO com.schedulingAmes.TC_01_stockPlan] - ------PASSED---------
+[24-11-2024 20:27:16.431 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 9: Click New Stock Plan
+[24-11-2024 20:27:18.015 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 10: Select dropdown product line
+[24-11-2024 20:27:20.231 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 11: Select Machine
+[24-11-2024 20:27:22.469 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 12: Select Article

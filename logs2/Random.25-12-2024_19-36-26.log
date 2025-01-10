@@ -1,0 +1,12 @@
+[25-12-2024 19:36:35.013 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 1: Click on main menu
+[25-12-2024 19:36:35.596 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 2: Click on Stock Plan menu
+[25-12-2024 19:36:35.710 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 3: Click on Stock Plan Child Menu
+[25-12-2024 19:36:35.865 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 4: Select Product Line Dropdown
+[25-12-2024 19:36:38.167 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 5: Select Eguipment Group
+[25-12-2024 19:36:40.845 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 6: Select Machine
+[25-12-2024 19:36:43.042 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 7: Click filter
+[25-12-2024 19:36:43.143 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 24: Verify buttons after click filter
+[25-12-2024 19:36:45.227 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - ------PASSED---------
+[25-12-2024 19:36:45.227 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 22: Verify sort list by time
+[25-12-2024 19:36:46.041 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 23: Verify line no is - for PO status is Outputting
+[25-12-2024 19:36:46.042 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 24: Verify buttons

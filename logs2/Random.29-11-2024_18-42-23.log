@@ -1,0 +1,8 @@
+[29-11-2024 18:42:31.735 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 1: Click on main menu
+[29-11-2024 18:42:32.297 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 2: Click on Stock Plan menu
+[29-11-2024 18:42:32.401 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 3: Click on Stock Plan Child Menu
+[29-11-2024 18:42:32.583 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 4: Select Product Line Dropdown
+[29-11-2024 18:42:34.836 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 5: Select Eguipment Group
+[29-11-2024 18:42:37.482 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 6: Select Machine
+[29-11-2024 18:42:39.688 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 6: Click filter
+[29-11-2024 18:42:39.820 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 6: Get the last Stock PO

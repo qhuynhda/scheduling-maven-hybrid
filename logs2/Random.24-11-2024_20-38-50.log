@@ -1,0 +1,18 @@
+[24-11-2024 20:38:59.714 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 1: Click on main menu
+[24-11-2024 20:39:00.259 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 2: Click on Stock Plan menu
+[24-11-2024 20:39:00.363 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 3: Click on Stock Plan Child Menu
+[24-11-2024 20:39:00.530 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 4: Select Product Line Dropdown
+[24-11-2024 20:39:02.763 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 5: Select Eguipment Group
+[24-11-2024 20:39:05.403 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 6: Select Machine
+[24-11-2024 20:39:07.595 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 7: Click Modify
+[24-11-2024 20:39:07.668 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 8: Verify lock user
+[24-11-2024 20:39:08.091 INFO com.schedulingAmes.TC_01_stockPlan] - ------PASSED---------
+[24-11-2024 20:39:08.091 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 9: Click New Stock Plan
+[24-11-2024 20:39:09.960 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 10: Select dropdown product line
+[24-11-2024 20:39:12.173 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 11: Select Machine
+[24-11-2024 20:39:16.359 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 12: Select Article
+[24-11-2024 20:39:18.616 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 13: Enter quantity
+[24-11-2024 20:39:20.212 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 14: Select TBM Order Number
+[24-11-2024 20:39:22.414 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 15: Select status
+[24-11-2024 20:39:24.600 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 16: Enter Text comment
+[24-11-2024 20:39:24.716 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 17: Click Save

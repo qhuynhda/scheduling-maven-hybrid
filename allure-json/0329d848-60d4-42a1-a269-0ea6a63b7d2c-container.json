@@ -1,0 +1,1 @@
+{"uuid":"0329d848-60d4-42a1-a269-0ea6a63b7d2c","name":"com.schedulingAmes.TC_01_stockPlan","children":["e8c7e09e-4261-4465-9e39-4374f3e41d67"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1732452579749,"stop":1732452590059}],"afters":[],"start":1732452579707,"stop":1732452628715}

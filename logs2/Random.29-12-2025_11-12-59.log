@@ -1,0 +1,25 @@
+[29-12-2025 11:13:08.292 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 1: Click on main menu
+[29-12-2025 11:13:08.893 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 2: Click on Stock Plan menu
+[29-12-2025 11:13:09.073 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 3: Click on Stock Plan Child Menu
+[29-12-2025 11:13:12.148 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 4: Select Product Line Dropdown
+[29-12-2025 11:13:14.485 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 5: Select Eguipment Group
+[29-12-2025 11:13:17.388 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 6: Select Machine
+[29-12-2025 11:13:19.686 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 7: Click filter
+[29-12-2025 11:13:19.876 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 8: Verify buttons after click filter
+[29-12-2025 11:13:22.657 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - ------PASSED---------
+[29-12-2025 11:13:22.657 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 9: Verify sort list by time
+[29-12-2025 11:13:25.473 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - ------PASSED---------
+[29-12-2025 11:13:25.474 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 10: Verify line no is - for PO status is Outputting
+[29-12-2025 11:13:25.475 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 11: click Modify
+[29-12-2025 11:13:25.647 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 12: Verify Create PO buttons visible after Modify
+[29-12-2025 11:13:26.299 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - ------PASSED---------
+[29-12-2025 11:13:26.300 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 13: Verify Sequence buttons visible after Modify
+[29-12-2025 11:13:28.518 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - ------PASSED---------
+[29-12-2025 11:13:28.519 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 14: Verify Rearrange buttons visible after Modify
+[29-12-2025 11:13:28.620 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - ------PASSED---------
+[29-12-2025 11:13:28.621 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 15: Verify Replan buttons visible after Modify
+[29-12-2025 11:13:28.719 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - ------PASSED---------
+[29-12-2025 11:13:28.720 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 16: Verify Bulk Release buttons visible after Modify
+[29-12-2025 11:13:28.856 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - ------PASSED---------
+[29-12-2025 11:13:28.857 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - TC_01_stockPlan- Step 17: Verify Export CSV buttons visible after Modify
+[29-12-2025 11:13:28.967 INFO com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList] - ------PASSED---------

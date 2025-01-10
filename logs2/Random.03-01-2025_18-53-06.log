@@ -1,0 +1,14 @@
+[03-01-2025 18:53:15.064 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 1: Click on main menu
+[03-01-2025 18:53:15.797 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 2: Click on Stock Plan menu
+[03-01-2025 18:53:15.886 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 3: Click on Stock Plan Child Menu
+[03-01-2025 18:53:16.002 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 4: Select Product Line Dropdown
+[03-01-2025 18:53:18.225 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 5: Select Eguipment Group
+[03-01-2025 18:53:20.813 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 6: Select Machine
+[03-01-2025 18:53:23.364 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 7: Click filter
+[03-01-2025 18:53:53.702 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 01: Select Stock PO
+[03-01-2025 18:53:53.702 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 02: Verify Stock save success
+[03-01-2025 18:53:53.702 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 21: Verify Stock save success
+[03-01-2025 18:53:53.702 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 21: Verify Stock save success
+[03-01-2025 18:53:53.702 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 21: Verify Stock save success
+[03-01-2025 18:53:53.702 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 21: Verify Stock save success
+[03-01-2025 18:53:53.703 INFO com.schedulingAmes.TC_01_stockPlan] - TC_01_stockPlan- Step 21: Verify Stock save success
