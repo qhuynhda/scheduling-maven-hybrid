@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none"
+       name="Scheduling-Ames">
+
+
+       <listeners>
+           <listener class-name="commons.MethodListener"></listener>
+           <listener class-name="reportConfig.ReportNGListener"></listener>
+           <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+           <listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+
+       </listeners>
+
+    <parameter name="url"
+               value="http://dashboard.devqa.scheduling.ames.atl.to"></parameter>
+    <test name="Run on Firefox" preserve-order="true">
+        <parameter name="browser"
+                   value="chrome"/>
+        <classes>
+            <class name="com.schedulingAmes.TC_02_stockPlan_VerifyStockPOList"></class>
+        </classes>
+    </test>
+    <!--<test name="Run on Chrome">
+        <parameter name="browser"
+                   value="chrome"/>
+        <classes>
+            <class name="com.nopcommerce.account.Level_04_Multible_Browser"></class>
+
+        </classes>
+    </test>
+    <test name="Run on Edge">
+        <parameter name="browser"
+                   value="edge"/>
+        <classes>
+            <class name="com.nopcommerce.account.Level_04_Multible_Browser"></class>
+
+        </classes>
+    </test> -->
+</suite>

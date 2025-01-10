@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a80f5c7-974c-4b6d-96d2-08a8f620a90a" name="Changes" comment="all">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserDrivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserDrivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserDrivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/BasePageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/BrowserList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/GlobalConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/MethodListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/PageGeneratorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/TestNGAppender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/commons/VerificationFailures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjectSchedulingAmes/AddStockPlanPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjectSchedulingAmes/HomePageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjectSchedulingAmes/LoginPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjectSchedulingAmes/PageGeneratorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjectSchedulingAmes/StockPlanPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIsSchedulingAmes/AddStockPlanUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIsSchedulingAmes/HomePageUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIsSchedulingAmes/LoginSchedulingAmesUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageUIsSchedulingAmes/StockPlanUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportConfig/AllureTestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportConfig/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportConfig/ExtentReportListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportConfig/ExtentTestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportConfig/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/reportConfig/ReportNGListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/schedulingAmes/TC_01_stockPlan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/RunSchedulingAmes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/userData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/xml/com.schedulingAmes.TC_01_stockPlan_results.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2p7DT7VqQJQCdw6E8yDZy9CemLi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Automation Testing/04-Maven Hybrid Framework/maven-hybrid-Scheduling-framework",
+    "settings.editor.selected.configurable": "MavenSettings"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Automation Testing\04-Maven Hybrid Framework\maven-hybrid-Scheduling-framework" />
+      <recent name="D:\Automation Testing\04-Maven Hybrid Framework\maven-hybrid-Scheduling-framework\src\test\java" />
+      <recent name="D:\Automation Testing\04-Maven Hybrid Framework\maven-hybrid-Scheduling-framework\src\test\resources" />
+      <recent name="D:\Automation Testing\04-Maven Hybrid Framework\maven-hybrid-Scheduling-framework\src\test" />
+      <recent name="D:\Automation Testing\04-Maven Hybrid Framework\maven-hybrid-Scheduling-framework\src\main\java" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TC2" />
+    <MESSAGE value="all" />
+    <option name="LAST_COMMIT_MESSAGE" value="all" />
+  </component>
+</project>
